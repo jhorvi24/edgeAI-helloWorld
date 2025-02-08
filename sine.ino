@@ -46,7 +46,7 @@ void loop() {
   
 
 
-  value = 0,5;
+  value = 0.5;
 
   float input[1] = {value};
 
